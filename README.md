@@ -1,2 +1,2 @@
 # Mini-Projects
-These are practical projects.
+These are practice projects for beginners.
